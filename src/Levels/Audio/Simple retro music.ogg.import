@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Simple retro music.ogg-9ccc1801a3d9e2db8c8def26246ae5b8.oggstr"
+
+[deps]
+
+source_file="res://src/Levels/Audio/Simple retro music.ogg"
+dest_files=[ "res://.import/Simple retro music.ogg-9ccc1801a3d9e2db8c8def26246ae5b8.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

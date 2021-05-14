@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Cartoon-Jump-Sound-Effect.ogg-bcfa7e903a1729d9df75422df5e74a53.oggstr"
+
+[deps]
+
+source_file="res://Audio/Cartoon-Jump-Sound-Effect.ogg"
+dest_files=[ "res://.import/Cartoon-Jump-Sound-Effect.ogg-bcfa7e903a1729d9df75422df5e74a53.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
